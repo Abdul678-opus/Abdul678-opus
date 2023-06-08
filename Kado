@@ -1,0 +1,9 @@
+def ucapkan_selamat_ulang_tahun(Ita Purnamasari):
+    pesan = "Selamat ulang tahun, " + Ita Purnamasari + "!"
+    return pesan
+
+# Menggunakan fungsi untuk mengucapkan selamat ulang tahun
+Ita Purnamasari = "Ita Purnamasari"
+ucapan = ucapkan_selamat_ulang_tahun(nama_cewek)
+print(ucapan)
+
